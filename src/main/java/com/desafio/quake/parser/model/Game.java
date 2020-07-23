@@ -61,6 +61,9 @@ public class Game implements Serializable {
 	}
 	
 	public void addKill() {
+		if(totalKills == null) {
+			totalKills = (long) 0;
+		}
 		totalKills++;
 	}
 

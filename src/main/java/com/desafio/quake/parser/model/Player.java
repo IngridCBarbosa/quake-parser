@@ -56,6 +56,16 @@ public class Player implements Serializable {
 	public void setKills(Long kills) {
 		this.kills = kills;
 	}
+	
+	public void addKill() {
+		this.kills += 1;
+	}
+
+	public void removeKill() {
+		if (this.kills > 0) {
+			this.kills -= 1;
+		}
+	}
 
 	@Override
 	public String toString() {

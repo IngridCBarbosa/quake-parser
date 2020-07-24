@@ -6,7 +6,7 @@ Apresenta relatório de: todos os jogos, podendo pesquisá-los por id, assim com
 
  1. Precisa ter instalado o Java no computador;
  2. IDE, de preferência Eclipse, ou o STS;
- 3. Postman ou Insomnia instalado. Podendo também utiliza browser. 
+ 3. Postman ou Insomnia instalado. Podendo também utiliza browsers de sua preferência. 
 
 ## Como rodar
 
@@ -18,7 +18,7 @@ Apresenta relatório de: todos os jogos, podendo pesquisá-los por id, assim com
 
    > clique em Maven install
  
-3. Após instalados todas as dependências, vá até a classe Main.java e rode a aplicação.
+3. Após instalados todas as dependências, vá até a classe Main.java e rode a aplicação como **Spring Boot App** .
 
 4. Com a aplicação rodando podendo acessar pelo postman, Insomnia ou até mesmo um browser:
  

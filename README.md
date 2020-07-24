@@ -20,6 +20,8 @@ Apresenta relatório de: todos os jogos, podendo pesquisá-los por id, assim com
  
 3. Após instalados todas as dependências, vá até a classe Main.java e rode a aplicação como **Spring Boot App** .
 
+   > clique em Spring Boot App
+   
 4. Com a aplicação rodando podendo acessar pelo postman, Insomnia ou até mesmo um browser:
  
    > [http://localhost:8080](http://localhost:8080)
